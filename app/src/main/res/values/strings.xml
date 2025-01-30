@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hospital Finder</string>
+    <string name="dont_have_account_yet">Dont have account yet?</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log in</string>
+    <string name="welcome">Welcome!</string>
+    <string name="find_nearest_hospital">Find Nearest Hospital</string>
+    <string name="about_us">About Us</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="clear">Clear</string>
+    <string name="register2">Register</string>
+    <string name="password2">Password</string>
+    <string name="username2">Username</string>
+    <string name="_2025_hospital_finder_all_rights_reserved">2025 Hospital Finder. All rights reserved.</string>
+    <string name="register_now">Register Now</string>
+    <string name="do_not_have_an_account_yet">Do not have an account yet?</string>
+    <string name="hospital_finder_app">Hospital Finder App</string>
+    <string name="pharmacy_nearby_count">Pharmacy Nearby Count:</string>
+    <string name="hospital_nearby_count">Hospital Nearby Count:</string>
+    <string name="latitude_n_longitude">Latitude: \n Longitude:</string>
+    <string name="your_district_n">Your District:\n</string>
+    <string name="logout">Logout</string>
+</resources>
